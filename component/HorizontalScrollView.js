@@ -97,9 +97,6 @@ export default class HorizontalScrollView extends Component{
                                         marginTop:20}}>
                 </Image>
 
-                
-
-
                 </View>
 
 
